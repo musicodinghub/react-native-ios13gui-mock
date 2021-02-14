@@ -75,7 +75,7 @@ export default class App extends React.Component {
 
         <NavigationContainer>
           <Stack.Navigator
-            initialRouteName="Settings"
+            initialRouteName="Home"
             screenOptions={{
               headerStyle: {
                 backgroundColor: '#161616',
